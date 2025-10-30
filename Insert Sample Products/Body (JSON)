@@ -1,0 +1,9 @@
+{
+  "name": "Running Shoes",
+  "price": 120,
+  "category": "Footwear",
+  "variants": [
+    { "color": "Red", "size": "M", "stock": 10 },
+    { "color": "Blue", "size": "L", "stock": 5 }
+  ]
+}
